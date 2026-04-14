@@ -3,3 +3,5 @@ java training will start!!
 p 36
 
 二回目のコミットを成功させたい
+
+三回目
